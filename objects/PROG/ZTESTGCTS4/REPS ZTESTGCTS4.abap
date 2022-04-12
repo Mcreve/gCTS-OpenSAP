@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTESTGCTS4.
-WRITE 'This is a tesi'.
+WRITE 'This is ass'.
