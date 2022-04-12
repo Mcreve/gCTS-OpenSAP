@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTESTGCTS4.
-WRITE 'This is ass'.
+WRITE 'This is as'.
