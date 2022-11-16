@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT ZTESTGCTS4.
-WRITE 'This is as'.
+WRITE 'This is as sutpud programfffille dfefe cdvdvd ' .
